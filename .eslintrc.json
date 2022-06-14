@@ -24,6 +24,16 @@
     "import/no-unresolved": "off",
     "import/prefer-default-export": "off",
     "react/function-component-definition": "off",
-    "react/jsx-filename-extension": "off"
+    "react/jsx-filename-extension": "off",
+
+    "semi": "off",
+    "max-classes-per-file": "off",
+    "no-new": "off",
+    "no-empty-function": "off",
+    "no-unused-vars": "off",
+    "no-shadow": "off",
+    "no-useless-constructor": "off",
+    "react/no-array-index-key": "off",
+    "no-plusplus": "off"
   }
 }
