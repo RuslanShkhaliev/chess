@@ -1,11 +1,18 @@
 .cell {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
-.white {
-  background-color: white;
+.cell img {
+  width: 80%;
+  height: 80%;
 }
-
 .black {
-  background-color: black;
+  background-color: #EECAA5;
+}
+.white {
+  background-color: #C26643;
 }
 
